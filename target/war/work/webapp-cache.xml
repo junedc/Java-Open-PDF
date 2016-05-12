@@ -1,0 +1,35 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>images/pdficon.png</string>
+          <string>WEB-INF/spring/app-config.xml</string>
+          <string>WEB-INF/spring/mvc-config.xml</string>
+          <string>WEB-INF/testfile.pdf</string>
+          <string>WEB-INF/urlrewrite.xml</string>
+          <string>WEB-INF/views/openpdffile.jsp</string>
+          <string>WEB-INF/web.xml</string>
+          <string>WEB-INF/classes/com/springtemplate/app/OpenPDFController.class</string>
+          <string>WEB-INF/classes/log4j.xml</string>
+          <string>WEB-INF/lib/spring-context-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-aop-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/aopalliance-1.0.jar</string>
+          <string>WEB-INF/lib/spring-asm-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-beans-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-core-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-expression-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-webmvc-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-web-3.0.1.RELEASE.jar</string>
+          <string>WEB-INF/lib/slf4j-api-1.5.10.jar</string>
+          <string>WEB-INF/lib/jcl-over-slf4j-1.5.10.jar</string>
+          <string>WEB-INF/lib/slf4j-log4j12-1.5.10.jar</string>
+          <string>WEB-INF/lib/log4j-1.2.15.jar</string>
+          <string>WEB-INF/lib/urlrewritefilter-3.1.0.jar</string>
+          <string>WEB-INF/lib/jstl-1.2.jar</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>
