@@ -117,6 +117,12 @@
 			<artifactId>itext</artifactId>
 			<version>2.1.7</version>
 		</dependency>
+		
+		<dependency>
+		   <groupId>org.apache.httpcomponents</groupId> 
+		   <artifactId>httpclient</artifactId> 
+		   <version>4.0-alpha4</version> 
+		 </dependency>
 	</dependencies>
 	<version>1</version>
 	<build>
